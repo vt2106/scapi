@@ -1,0 +1,1 @@
+"id=1, shape=rectangle, dimension1=2.0, dimension2=5.0, area=10.0"
